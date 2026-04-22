@@ -1,5 +1,5 @@
 # Practical-Tools-for-Ethical-AI
-Practical Tools for Ethical AI
+According to the World Economic Forum (2026), the greatest global risks of AI include environmental, geopoloitical, societal, and techological disasters. One of the most important upskilling priorities of the next 2-3 years is how to take advantage of the opportunities provided by AI while mitigating the harms, ultimately aiming to make the world a better place because of innovation. In this presentation you will see a variety of tools -- SAS tools as well as non-software-based tools -- to help you evaluate and implement AI systems responsibly. This session is a must-see for anyone who develops or makes decisions from AI systems. 
 
 ## Important Information
 
